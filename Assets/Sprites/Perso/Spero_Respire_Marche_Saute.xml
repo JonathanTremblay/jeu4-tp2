@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spero_Respire_Marche_Saute.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spero1_Respire0000" x="2" y="2" width="53" height="108" pivotX="30.5" pivotY="56.6" frameX="0" frameY="-1" frameWidth="53" frameHeight="109"/>
+	<SubTexture name="Spero1_Respire0001" x="57" y="2" width="53" height="108" frameX="0" frameY="-1" frameWidth="53" frameHeight="109"/>
+	<SubTexture name="Spero1_Respire0002" x="112" y="2" width="53" height="109"/>
+	<SubTexture name="Spero1_Respire0003" x="167" y="2" width="52" height="109" frameX="-1" frameY="0" frameWidth="53" frameHeight="109"/>
+	<SubTexture name="Spero1_Respire0004" x="221" y="2" width="52" height="109" frameX="-1" frameY="0" frameWidth="53" frameHeight="109"/>
+	<SubTexture name="Spero1_Respire0005" x="275" y="2" width="52" height="109" frameX="-1" frameY="0" frameWidth="53" frameHeight="109"/>
+	<SubTexture name="Spero1_Respire0006" x="329" y="2" width="53" height="109"/>
+	<SubTexture name="Spero1_Respire0007" x="384" y="2" width="53" height="108" frameX="0" frameY="-1" frameWidth="53" frameHeight="109"/>
+	<SubTexture name="Spero2_Marche0000" x="439" y="2" width="53" height="107" pivotX="31.2" pivotY="56.8" frameX="-1" frameY="-2" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero2_Marche0001" x="439" y="2" width="53" height="107" frameX="-1" frameY="-2" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero2_Marche0002" x="2" y="113" width="54" height="108" frameX="0" frameY="-1" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero2_Marche0003" x="2" y="113" width="54" height="108" frameX="0" frameY="-1" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero2_Marche0004" x="58" y="113" width="59" height="106" frameX="-1" frameY="-2" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero2_Marche0005" x="58" y="113" width="59" height="106" frameX="-1" frameY="-2" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero2_Marche0006" x="119" y="113" width="54" height="110" frameX="0" frameY="0" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero2_Marche0007" x="119" y="113" width="54" height="110" frameX="0" frameY="0" frameWidth="60" frameHeight="110"/>
+	<SubTexture name="Spero3_Saute0000" x="175" y="113" width="53" height="108" pivotX="36.1" pivotY="58.65" frameX="-6" frameY="-3" frameWidth="63" frameHeight="113"/>
+	<SubTexture name="Spero3_Saute0001" x="230" y="113" width="52" height="108" frameX="-8" frameY="-3" frameWidth="63" frameHeight="113"/>
+	<SubTexture name="Spero3_Saute0002" x="284" y="113" width="53" height="107" frameX="-10" frameY="-3" frameWidth="63" frameHeight="113"/>
+	<SubTexture name="Spero3_Saute0003" x="339" y="113" width="52" height="107" frameX="-8" frameY="-3" frameWidth="63" frameHeight="113"/>
+	<SubTexture name="Spero3_Saute0004" x="393" y="113" width="54" height="107" frameX="-4" frameY="-3" frameWidth="63" frameHeight="113"/>
+	<SubTexture name="Spero3_Saute0005" x="449" y="113" width="57" height="107" frameX="0" frameY="-4" frameWidth="63" frameHeight="113"/>
+	<SubTexture name="Spero3_Saute0006" x="2" y="225" width="55" height="111" frameX="-3" frameY="-2" frameWidth="63" frameHeight="113"/>
+	<SubTexture name="Spero3_Saute0007" x="59" y="225" width="54" height="113" frameX="-6" frameY="0" frameWidth="63" frameHeight="113"/>
+</TextureAtlas>

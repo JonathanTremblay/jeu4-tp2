@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 96aeecd3f0184fe4bbf00f1f87f5ecc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3256697391218878590
+    second: Spero1_Respire0000
+  - first:
+      213: 5431687514035447694
+    second: Spero1_Respire0001
+  - first:
+      213: 4702657022654292698
+    second: Spero1_Respire0002
+  - first:
+      213: -6411969083431113942
+    second: Spero1_Respire0003
+  - first:
+      213: 7696711025819304157
+    second: Spero1_Respire0004
+  - first:
+      213: -160436936411315007
+    second: Spero1_Respire0005
+  - first:
+      213: -6556322870331928826
+    second: Spero1_Respire0006
+  - first:
+      213: -3724516140811028600
+    second: Spero1_Respire0007
+  - first:
+      213: 3549549449787579261
+    second: Spero2_Marche0000
+  - first:
+      213: -268688767096852057
+    second: Spero2_Marche0001
+  - first:
+      213: 6814858600715970428
+    second: Spero2_Marche0002
+  - first:
+      213: 8646058223229957287
+    second: Spero2_Marche0003
+  - first:
+      213: -8232059351507281305
+    second: Spero2_Marche0004
+  - first:
+      213: 2075920286292846891
+    second: Spero2_Marche0005
+  - first:
+      213: 1235248816885300090
+    second: Spero2_Marche0006
+  - first:
+      213: -1088378372988147732
+    second: Spero2_Marche0007
+  - first:
+      213: -8571882954012402376
+    second: Spero3_Saute0000
+  - first:
+      213: -7762991826172803762
+    second: Spero3_Saute0001
+  - first:
+      213: 9155399844190182567
+    second: Spero3_Saute0002
+  - first:
+      213: -4931311187122427204
+    second: Spero3_Saute0003
+  - first:
+      213: -819882490806339153
+    second: Spero3_Saute0004
+  - first:
+      213: 7827674793917602653
+    second: Spero3_Saute0005
+  - first:
+      213: -5556945729762879720
+    second: Spero3_Saute0006
+  - first:
+      213: 4677801906983538481
+    second: Spero3_Saute0007
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spero1_Respire0000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 53
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5754717, y: 0.4851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28715773af2edc2d0800000000000000
+      internalID: -3256697391218878590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero1_Respire0001
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 402
+        width: 53
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5754717, y: 0.4851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87e105040b316b40800000000000000
+      internalID: 5431687514035447694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero1_Respire0002
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 401
+        width: 53
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5754717, y: 0.48073396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22ec775a1334140800000000000000
+      internalID: 4702657022654292698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero1_Respire0003
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 401
+        width: 52
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5673077, y: 0.48073396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b2d47371c1407a0800000000000000
+      internalID: -6411969083431113942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero1_Respire0004
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 401
+        width: 52
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5673077, y: 0.48073396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0cac826e530da60800000000000000
+      internalID: 7696711025819304157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero1_Respire0005
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 401
+        width: 52
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5673077, y: 0.48073396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c40a54d47306cdf0800000000000000
+      internalID: -160436936411315007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero1_Respire0006
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 401
+        width: 53
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5754717, y: 0.48073396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f881916134305a0800000000000000
+      internalID: -6556322870331928826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero1_Respire0007
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 402
+        width: 53
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5754717, y: 0.4851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887ffb2ad4cdf4cc0800000000000000
+      internalID: -3724516140811028600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0000
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 403
+        width: 53
+        height: 107
+      alignment: 9
+      pivot: {x: 0.56981134, y: 0.4878505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b95431b68824130800000000000000
+      internalID: 3549549449787579261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0001
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 403
+        width: 53
+        height: 107
+      alignment: 9
+      pivot: {x: 0.56981134, y: 0.4878505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1fd0a6dfc654cf0800000000000000
+      internalID: -268688767096852057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 54
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5777778, y: 0.48333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77e03a6acd339e50800000000000000
+      internalID: 6814858600715970428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 54
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5777778, y: 0.48333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a477fe2528fcf770800000000000000
+      internalID: 8646058223229957287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0004
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 293
+        width: 59
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5118644, y: 0.48301888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ad97792a9d1cd80800000000000000
+      internalID: -8232059351507281305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0005
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 293
+        width: 59
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5118644, y: 0.48301888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29238e60862fcc10800000000000000
+      internalID: 2075920286292846891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0006
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 289
+        width: 54
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5777778, y: 0.48363638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b7bab114c742110800000000000000
+      internalID: 1235248816885300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero2_Marche0007
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 289
+        width: 54
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5777778, y: 0.48363638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e2d0e2ad45e0f0800000000000000
+      internalID: -1088378372988147732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0000
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 291
+        width: 53
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5679245, y: 0.4847222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5ddd7edd8a0980800000000000000
+      internalID: -8571882954012402376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0001
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 291
+        width: 52
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5403846, y: 0.4847222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4585be6010544490800000000000000
+      internalID: -7762991826172803762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0002
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 292
+        width: 53
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4924528, y: 0.47990653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac5f91a6a38e0f70800000000000000
+      internalID: 9155399844190182567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0003
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 292
+        width: 52
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5403846, y: 0.47990653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba68ae3a96709bb0800000000000000
+      internalID: -4931311187122427204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0004
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 292
+        width: 54
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5944444, y: 0.47990653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9fce1f7313f94f0800000000000000
+      internalID: -819882490806339153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0005
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 292
+        width: 57
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.48925233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bdcb490cc71ac60800000000000000
+      internalID: 7827674793917602653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 55
+        height: 111
+      alignment: 9
+      pivot: {x: 0.60181814, y: 0.48963964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8171c5dfc43c1e2b0800000000000000
+      internalID: -5556945729762879720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spero3_Saute0007
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 174
+        width: 54
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5574074, y: 0.48097345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f0663ec04eae040800000000000000
+      internalID: 4677801906983538481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
